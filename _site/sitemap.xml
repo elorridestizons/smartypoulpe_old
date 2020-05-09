@@ -61,6 +61,9 @@
 <loc>http://localhost:4000/galada/recettes/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/galada/recettes_salees/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/galada/recettes_sucrees/</loc>
 </url>
 <url>

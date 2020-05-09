@@ -3,7 +3,7 @@ layout: post
 title: "Tarte pomme cannelle"
 date: 2020-04-30
 image:  Recettes/Recettes_sucrées/Tarte_pomme_cannelle.jpg
-tags:   [Recettes sucrées]
+tags:   [Recettes, Recettes sucrées]
 ---
 
 **Ingrédients :**
