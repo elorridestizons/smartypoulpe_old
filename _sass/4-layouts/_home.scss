@@ -84,6 +84,19 @@
       }
     }
   }
+  .dropdown-content {
+    display: none;
+    position:fixed;
+    z-index: 10;
+    background: $black;
+    text-transform: uppercase;
+    text-align: left;
+    font-size: 16px;
+  }
+  
+  #dropdown:hover .dropdown-content{
+    display: block;
+  }
 }
 
 .search-close-button {
@@ -134,12 +147,6 @@
   }
 }
 
-
-
-
-
-
-
 .search-box {
   max-width: 750px;
   width: 100%;
@@ -151,7 +158,7 @@
     height: 60px;
     margin-bottom: 30px;
     text-align: center;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 700;
     letter-spacing: 2px;
     text-transform: uppercase;
@@ -189,6 +196,17 @@
     list-style: none;
   }
 }
+
+.dropdiv{
+  color: $text;
+  text-decoration: none;
+  font-size:13px;
+  font-weight: bold;
+  &:hover{
+    color: $white;
+  }
+}
+
 
 // Articles
 .article-first {
