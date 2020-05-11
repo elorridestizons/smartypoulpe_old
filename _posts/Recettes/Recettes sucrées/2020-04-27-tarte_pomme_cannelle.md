@@ -21,18 +21,18 @@ tags:   [Recettes, Recettes sucrées]
 -	4cs eau
 
 **Étapes :**
-1.	Préchauffer le four à 200°C
+1.	Préchauffer le four à 200°C.
 
 <u>Pour la pâte :</u>
-2.	Dans un saladier mélanger à la main la farine, le beurre en morceaux et le sucre jusqu’à l’obtention d’un mélange sableux
-3.	Ajouter les jaunes d’œufs et l’eau puis malaxer jusqu’à l’obtention d’un mélange homogène
-4.	Façonner la pâte en boule et la placer au frigo dans du film alimentaire pendant 3H
+2.	Dans un saladier mélanger à la main la farine, le beurre en morceaux et le sucre jusqu’à l’obtention d’un mélange sableux.
+3.	Ajouter les jaunes d’œufs et l’eau puis malaxer jusqu’à l’obtention d’un mélange homogène.
+4.	Façonner la pâte en boule et la placer au frigo dans du film alimentaire pendant 3H.
 
 <u>Tarte :</u>
-5.	Étaler la pâte dans un moule puis la piquer avec une fourchette
-6.	Y verser la compote de pomme et les amandes effilées
-7.	Peler les pommes et les couper en lamelles
-8.	Répartir les pommes sur la tarte et saupoudrer de cannelle 
-9.	Badigeonner l’ensemble avec du jaune d’œuf 
-10.	Cuire 10mn à 200°C puis 45mn à 180°C
+5.	Étaler la pâte dans un moule puis la piquer avec une fourchette.
+6.	Y verser la compote de pomme et les amandes effilées.
+7.	Peler les pommes et les couper en lamelles.
+8.	Répartir les pommes sur la tarte et saupoudrer de cannelle.
+9.	Badigeonner l’ensemble avec le jaune d’œuf.
+10.	Cuire 10mn à 200°C puis 45mn à 180°C.
 

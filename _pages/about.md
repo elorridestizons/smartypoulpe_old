@@ -5,7 +5,7 @@ image: Author/Elorri.jpg
 permalink: /about/
 ---
 
-DESTIZONS Elorri, 26ans, diplômée d’une école d’ingénieur en France, la création de ce blog est née pendant la période de confinement due au coronavirus en avril 2020.
+DESTIZONS Elorri, 26ans, française expatriée aux Etats-Unis je souhaite partager avec vous mon aventure à travers ce blog.
 
 Après de longs voyages en Thaïlande ainsi qu’au Japon et après avoir déjà vécu 6mois aux Pays-Bas pendant mes études, j’ai eu envie de changement, de partir découvrir le monde. 1an et demi après mes études, j’ai donc quitté mon premier emploi situé à Paris pour partir vers de nouvelles aventures. Aujourd’hui je travaille donc à Chicago aux États-Unis.
 
@@ -19,6 +19,9 @@ Vous trouverez alors sur mon blog :
 
 ### Me contacter :
 
-Instagram : [@elorri_dtz](https://www.instagram.com/elorri_dtz/) 
+Je reste joignable pour toute question ou simple envie de discuter. Cela sera avec plaisir.
 
 Par mail: smartypoulpe@gmail.com 
+
+Instagram : [@elorri_dtz](https://www.instagram.com/elorri_dtz/) 
+
