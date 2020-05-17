@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Expatriation
-#image: Author/Elorri.jpg
+image: Expatriation/Chicago.png
 permalink: /expatriation/
 ---

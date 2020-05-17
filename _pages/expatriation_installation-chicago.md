@@ -1,7 +1,6 @@
 ---
 layout: page
 title: S'installer à Chicago
-#image: Author/Elorri.jpg
 permalink: /expatriation_installation-chicago/
 ---
 
@@ -40,7 +39,7 @@ permalink: /expatriation_installation-chicago/
 			<div class="row">
 			{%- for post in site.posts offset: 1 -%}
 				{% for tag in post.tags %}
-					{% if tag == "Installation Chicago"%}
+					{% if tag == "S'installer à Chicago"%}
 				<article class="article col col-12 col-t-6">
 					<div class="article-box">
 						<div class="article-head">

@@ -1,6 +1,27 @@
 // Post
+
+ul, ol {
+  padding-left: 15px;
+}
+
 .post {
   margin-bottom: 20px;
+}
+
+
+.contenant_bulle {
+  position: relative;
+  text-align: center;
+  color: #1ABC9C;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.texte_centrer_bulle {
+  position: absolute;
+  top: 60%;
+  left: 45%;
+  transform: translate(-50%, -50%);
 }
 
 .post-image-box {
@@ -10,6 +31,13 @@
       opacity: 1;
     }
   }
+}
+
+.image-droite {
+
+float: right; 
+margin-left: 30px;
+margin-bottom: 20px;
 }
 
 .post-image {
