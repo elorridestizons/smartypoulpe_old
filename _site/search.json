@@ -1,0 +1,59 @@
+[
+  
+    {
+      "title"    : "Qu&#39;est-ce qu&#39;un VIE ?",
+      "category" : "",
+      "tags"     : "Expatriation and VIE",
+      "url"      : "/smartypoulpe/expatriation_VIE/",
+      "date"     : "2020-05-16 00:00:00 -0500"
+    } ,
+  
+    {
+      "title"    : "Quel quartier choisir ?",
+      "category" : "",
+      "tags"     : "Expatriation and S'installer à Chicago",
+      "url"      : "/smartypoulpe/quartiers/",
+      "date"     : "2020-05-11 00:00:00 -0500"
+    } ,
+  
+    {
+      "title"    : "Chercher un logement",
+      "category" : "",
+      "tags"     : "Expatriation and S'installer à Chicago",
+      "url"      : "/smartypoulpe/recherche_logement/",
+      "date"     : "2020-05-10 00:00:00 -0500"
+    } ,
+  
+    {
+      "title"    : "Tarte pomme cannelle",
+      "category" : "",
+      "tags"     : "Recettes and Recettes sucrées",
+      "url"      : "/smartypoulpe/tarte_pomme_cannelle/",
+      "date"     : "2020-04-27 00:00:00 -0500"
+    } ,
+  
+    {
+      "title"    : "Cookies Chocolat / Flocons d’avoine",
+      "category" : "",
+      "tags"     : "Recettes and Recettes sucrées",
+      "url"      : "/smartypoulpe/cookies_chocolat_avoine/",
+      "date"     : "2020-04-27 00:00:00 -0500"
+    } ,
+  
+    {
+      "title"    : "Quiche saumon épinard",
+      "category" : "",
+      "tags"     : "Recettes and Recettes salées",
+      "url"      : "/smartypoulpe/quiche_saumon_epinard/",
+      "date"     : "2020-04-27 00:00:00 -0500"
+    } ,
+  
+    {
+      "title"    : "Poulet pané à l’avoine farci au pesto",
+      "category" : "",
+      "tags"     : "Recettes and Recettes salées",
+      "url"      : "/smartypoulpe/poulet_pane_avoine_pesto/",
+      "date"     : "2020-04-27 00:00:00 -0500"
+    } 
+  
+]
