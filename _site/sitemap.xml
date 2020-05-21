@@ -29,10 +29,17 @@
 <lastmod>2020-05-16T00:00:00-05:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/smartypoulpe/expatriation_Chicago/</loc>
+<lastmod>2020-05-21T00:00:00-05:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/smartypoulpe/about/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/smartypoulpe/expatriation/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/smartypoulpe/expatriation_installation-chicago/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/smartypoulpe/expatriation_installation-chicago/</loc>
@@ -63,5 +70,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/smartypoulpe/voyages_thailande/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/smartypoulpe/page/2/</loc>
 </url>
 </urlset>

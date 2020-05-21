@@ -2,7 +2,7 @@
 # General Site Settings
 
 title: SmartyPoulpe
-description: Galada is an easy and simple theme for Jekyll. Dark colors, give it a special exquisite look. A careful approach to design and features make it an ideal solution for a personal blog. # this means to ignore newlines until "baseurl:"
+description: SmartyPoulpe est le blog des bons plans. Des voyages autour du globe à mon expérience d'expatriation, je vous raconte tout et vous partage même mes recettes gourmandes et saines. # this means to ignore newlines until "baseurl:"
 baseurl: "/smartypoulpe" # the subpath of your site, e.g. /blog
 url: "https://elorridestizons.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 logo: Logo/poulpette.svg 
@@ -23,7 +23,7 @@ instagram: https://www.instagram.com/elorri_dtz/ # Add your Facebook handle
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: elorri_dtz # Add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: SmartyPoulpe # Add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------

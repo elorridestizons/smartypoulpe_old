@@ -108,18 +108,18 @@ $(function() {
   // userId and accessToken from Matthew Elsom (https://codepen.io/matthewelsom/pen/zrrrLN) for example, for which he thanks a lot!
   var instagramFeed = new Instafeed({
     get: 'user',
-    limit: 6,
+    userId: '2915061801944058',
+    accessToken: 'IGQVJXSjhFRHlfZA0FGaTVsQUxNRG5Hbk5DMlMxZAk5fbUcwcWgxWU5hNklVd3VETEdCSm80V2h5TU1remg2Mk5aMUs2Q1FhSjZAwVGNkbm9EQmxYTXRRMEF4elZAYY3lzc1dyNHluTWR3SjgxYW9iZAlJuajJkbGV6UnRhRzEw',
     resolution: 'standard_resolution',
-    userId: '17841404890930167',
-    accessToken: 'IGQVJYSDQyTXdWcHdQR0FzS191X0NQSjZAFOU0wbERpTkpVTUJUOVgzTFM0SzQ1Y0ZATUkJXWDNPd3BXcWl4UGVmUFg2TlRVM3JiaFZAOYlBzUDRqQV84RDVIUnRDanZANM282OGRBY2xLTU44QTZACOUtwbTVvcHJmSHJPWFFJ',
-    template:
-      '<li class="instagram-item"><a href="{{link}}" aria-label="{{caption}}" target="_blank"><img src="{{image}}" alt="{{caption}}"></a></li>'
-  });
+    template: '<li class="instagram-item"><a href="{{link}}" aria-label="{{caption}}" target="_blank"><img src="{{image}}" alt="{{caption}}"></a></li>',
+    limit: 6,
+    });
 
   if ($('#instafeed').length) {
     instagramFeed.run();
   }
 
+  
 
   /* =======================
   // Scroll Top Button
