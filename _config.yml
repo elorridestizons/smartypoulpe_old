@@ -5,7 +5,7 @@ title: SmartyPoulpe
 description: SmartyPoulpe est le blog des bons plans. Des voyages autour du globe à mon expérience d'expatriation, je vous raconte tout et vous partage même mes recettes gourmandes et saines. # this means to ignore newlines until "baseurl:"
 baseurl: "/smartypoulpe" # the subpath of your site, e.g. /blog
 url: "https://elorridestizons.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-logo: Logo/poulpette.svg 
+logo: /smartypoulpe/img/Logo/poulpette.svg 
 
 #-------------------------------
 # About Section
