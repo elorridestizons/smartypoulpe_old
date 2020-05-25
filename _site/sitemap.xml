@@ -63,6 +63,9 @@
 <loc>http://localhost:4000/smartypoulpe/voyages/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/smartypoulpe/voyages_USA/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/smartypoulpe/voyages_japon/</loc>
 </url>
 <url>
