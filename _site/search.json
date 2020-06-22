@@ -1,6 +1,22 @@
 [
   
     {
+      "title"    : "Bangkok, la tumultueuse",
+      "category" : "",
+      "tags"     : "Voyage and Thaïlande",
+      "url"      : "/smartypoulpe/thailande_bangkok/",
+      "date"     : "2020-06-17 00:00:00 -0500"
+    } ,
+  
+    {
+      "title"    : "Que voir en Thaïlande ?",
+      "category" : "",
+      "tags"     : "Voyage and Thaïlande",
+      "url"      : "/smartypoulpe/thailande/",
+      "date"     : "2020-06-17 00:00:00 -0500"
+    } ,
+  
+    {
       "title"    : "Chicago",
       "category" : "",
       "tags"     : "Expatriation, Chicago, and The Loop",
